@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\BmpLoader.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main2.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39936" topLine="1145" />
+		</Cursor>
+		<Folding>
+			<Collapse line="831" />
+			<Collapse line="900" />
+			<Collapse line="932" />
+			<Collapse line="948" />
+			<Collapse line="978" />
+			<Collapse line="998" />
+			<Collapse line="1013" />
+			<Collapse line="1342" />
+			<Collapse line="1355" />
+			<Collapse line="1464" />
+			<Collapse line="1504" />
+			<Collapse line="1509" />
+			<Collapse line="1519" />
+			<Collapse line="1535" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
